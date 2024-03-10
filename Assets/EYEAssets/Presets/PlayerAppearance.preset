@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerAppearance
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: a412f617a0d4a884a8c0a1dc6fcc3397,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _characterOutfit.Array.size
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _characterOutfit.Array.data[0]
+    value: 
+    objectReference: {fileID: 2100000, guid: 428a53814d6f93240b0d53c0360b2c1e, type: 2}
+  - target: {fileID: 0}
+    propertyPath: _characterOutfit.Array.data[1]
+    value: 
+    objectReference: {fileID: 2100000, guid: 904a7430ca109f148add1886dd0ef356, type: 2}
+  - target: {fileID: 0}
+    propertyPath: _characterOutfit.Array.data[2]
+    value: 
+    objectReference: {fileID: 2100000, guid: 14d8ebf4e7b8bcf4eb397e1846c84b44, type: 2}
+  - target: {fileID: 0}
+    propertyPath: _characterOutfit.Array.data[3]
+    value: 
+    objectReference: {fileID: 2100000, guid: caa37c5e928e94640bbba117996ed9d7, type: 2}
+  - target: {fileID: 0}
+    propertyPath: _characterOutfit.Array.data[4]
+    value: 
+    objectReference: {fileID: 2100000, guid: 1e48c340e9d4ae94f85b70a8bd25b6ae, type: 2}
+  - target: {fileID: 0}
+    propertyPath: _characterOutfit.Array.data[5]
+    value: 
+    objectReference: {fileID: 2100000, guid: 3e9c32543d1f2054dbafac64f1fe965c, type: 2}
+  - target: {fileID: 0}
+    propertyPath: _characterOutfit.Array.data[6]
+    value: 
+    objectReference: {fileID: 2100000, guid: 989883ae4a7b31c4ca85f801dcab3734, type: 2}
+  - target: {fileID: 0}
+    propertyPath: _characterOutfit.Array.data[7]
+    value: 
+    objectReference: {fileID: 2100000, guid: 4f5988c820978614a98186fc0577be9e, type: 2}
+  m_ExcludedProperties: []
